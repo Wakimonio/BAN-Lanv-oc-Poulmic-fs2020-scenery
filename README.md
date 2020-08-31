@@ -3,7 +3,7 @@ Auguste 30 - 2020
 Lanveoc Poulmic Air Base scenery FOR Flight Simulator 2020
 
 
-FLanveoc Poulmic - Wakimonio
+Lanveoc Poulmic - Wakimonio
 
 Version 0.1.0 - 30.08.2020
 
